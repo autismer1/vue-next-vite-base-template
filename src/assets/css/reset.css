@@ -1,0 +1,15 @@
+@import 'normalize.css';
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: PingFangSC, PingFangSC-Medium;
+  font-weight: 500;
+  font-size: 0.7rem;
+  color: #999;
+}
+
+body {
+  background-color: #f8f8f8;
+}

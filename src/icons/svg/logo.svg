@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="89px" height="88px" viewBox="0 0 89 88" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>logo</title>
+    <defs>
+        <linearGradient x1="90.5937158%" y1="11.6807452%" x2="22.1213777%" y2="76.112678%" id="linearGradient-1">
+            <stop stop-color="#549DFC" offset="0%"></stop>
+            <stop stop-color="#2A64F8" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="88" height="88" rx="14"></rect>
+        <path d="M56,0 L56,3.42104968 C56,7.73657703 52.5015739,11.2350032 48.1860465,11.2350032 L33.543,11.235 L33.5784734,37.1757343 C33.5841686,41.4912579 30.0903625,44.9942979 25.7748389,44.9999932 C25.7714015,44.9999977 25.7679641,45 25.7645267,45 L22.4123286,45 L22.4122353,11.2350032 L0,11.2350032 L0,7.81395349 C-1.41667809e-15,3.49842614 3.49842614,1.68092793e-15 7.81395349,0 L56,0 Z" id="path-4"></path>
+        <linearGradient x1="65.9022757%" y1="21.4590806%" x2="33.6000892%" y2="62.1177271%" id="linearGradient-6">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.583998033" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="登录-2" transform="translate(-143.000000, -98.000000)">
+            <g id="logo备份" transform="translate(143.500000, 98.000000)">
+                <mask id="mask-3" fill="white">
+                    <use xlink:href="#path-2"></use>
+                </mask>
+                <use id="bg" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                <g id="矩形-+-路径-蒙版" mask="url(#mask-3)">
+                    <g transform="translate(16.000000, 22.000000)">
+                        <mask id="mask-5" fill="white">
+                            <use xlink:href="#path-4"></use>
+                        </mask>
+                        <use id="蒙版" stroke="none" fill="#307EFF" fill-rule="evenodd" xlink:href="#path-4"></use>
+                        <path d="M22.3529412,0 L56,0 L56,3.42104968 C56,7.73657703 52.5015739,11.2350032 48.1860465,11.2350032 L30.1668947,11.2350032 C25.8513673,11.2350032 22.3529412,7.73657703 22.3529412,3.42104968 L22.3529412,0 L22.3529412,0 Z" id="矩形" stroke="none" fill="#FFFFFF" fill-rule="evenodd" opacity="0.6" mask="url(#mask-5)"></path>
+                        <path d="M33.5417701,9.36436951 L33.5784734,37.1757343 C33.5841686,41.4912579 30.0903625,44.9942979 25.7748389,44.9999932 C25.7714015,44.9999977 25.7679641,45 25.7645267,45 L22.4123286,45 L22.4123286,45 L22.4122353,11.2350032 L0,11.2350032 L0,7.81395349 C-1.41667809e-15,3.49842614 3.49842614,1.68092793e-15 7.81395349,0 L24.1650341,0 C29.338835,4.37865872e-15 33.5349422,4.19057315 33.5417701,9.36436951 Z" id="路径" stroke="none" fill="url(#linearGradient-6)" fill-rule="evenodd" mask="url(#mask-5)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

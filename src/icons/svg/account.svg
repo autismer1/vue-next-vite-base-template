@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>账号</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="登录-2" transform="translate(-32.000000, -288.000000)">
+            <g id="编组" transform="translate(32.000000, 272.000000)">
+                <g id="账号" transform="translate(0.000000, 16.000000)">
+                    <rect id="框" fill="#FFFFFF" opacity="0" x="0" y="0" width="22" height="22"></rect>
+                    <g transform="translate(4.333333, 1.666667)">
+                        <rect id="矩形" stroke="#C6C6C6" stroke-width="1.33333333" x="0.666666667" y="0.666666667" width="12" height="17.3333333" rx="2.66666667"></rect>
+                        <rect id="矩形" fill="#C6C6C6" x="0" y="13" width="13.3333333" height="1.33333333"></rect>
+                        <rect id="矩形" fill="#C6C6C6" x="5" y="2.33333333" width="3" height="1.33333333" rx="0.666666667"></rect>
+                        <circle id="椭圆形" fill="#C6C6C6" cx="6.5" cy="15.8333333" r="1"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

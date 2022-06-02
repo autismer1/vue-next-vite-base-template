@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="24px" viewBox="0 0 25 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>我的-选中</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="我的" transform="translate(-256.000000, -739.000000)">
+            <g id="标签栏" transform="translate(0.000000, 729.000000)">
+                <g id="我的-选中" transform="translate(256.500000, 10.000000)">
+                    <rect id="矩形备份-3" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="24" height="24"></rect>
+                    <g id="wodexiao" transform="translate(3.000000, 2.000000)">
+                        <path d="M9.16884752,13.3333333 C18.4163475,13.3333333 18.3246809,19.0583333 18.3246809,19.0583333 C18.3946809,19.5783333 18.0196809,20 17.4863475,20 L0.851347516,20 C0.318014176,20 -0.0778191446,19.5725 0.0130141757,19.0583333 C0.0130141757,19.0583333 -0.0803191641,13.3333333 9.16884752,13.3333333 Z" id="路径" fill="#307EFF" fill-rule="nonzero"></path>
+                        <path d="M9.16634752,0 L14.9996809,0 L14.9996809,5.83333334 C14.9996809,9.05499438 12.3880086,11.6666667 9.16634752,11.6666667 C5.94468647,11.6666667 3.33301418,9.05499438 3.33301418,5.83333334 C3.33301418,2.6116723 5.94468647,0 9.16634752,0 Z" id="路径" fill="#307EFF" fill-rule="nonzero"></path>
+                        <ellipse id="椭圆形" fill="#A4C6FF" cx="9.11111111" cy="8.88888889" rx="2.22222222" ry="1.11111111"></ellipse>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

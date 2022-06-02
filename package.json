@@ -1,0 +1,31 @@
+{
+  "name": "gree-carrier-tms-vite",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite --mode development",
+    "test": "vite --mode test",
+    "build:test": "vite build --mode test",
+    "build:prod": "vite build --mode production",
+    "preview": "vite preview",
+    "prettier": "prettier --write ."
+  },
+  "dependencies": {
+    "@amap/amap-jsapi-loader": "^1.0.1",
+    "axios": "^0.27.2",
+    "dayjs": "^1.11.2",
+    "js-cookie": "^3.0.1",
+    "normalize.css": "^8.0.1",
+    "sass": "^1.52.1",
+    "vant": "^3.4.9",
+    "vue": "^3.2.25",
+    "vue-router": "^4.0.13"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.3.3",
+    "prettier": "^2.6.2",
+    "vite": "^2.9.9",
+    "vite-plugin-compression": "^0.5.1",
+    "vite-plugin-style-import": "1.4.1"
+  }
+}

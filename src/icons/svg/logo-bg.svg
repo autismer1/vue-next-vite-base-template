@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="89px" height="88px" viewBox="0 0 89 88" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>logo</title>
+    <defs>
+        <path d="M76,0 L76,4.6250198 C76,10.4818069 71.252136,15.229671 65.3953488,15.229671 L45.523,15.229 L45.5707688,50.3813373 C45.5785072,56.2381193 40.8369205,60.9922524 34.9801385,60.9999907 C34.975468,60.9999969 34.9707975,61 34.9661269,61 L30.4167317,61 L30.416605,15.229671 L0,15.229671 L0,10.6046512 C-7.17249559e-16,4.74786405 4.74786405,1.07587434e-15 10.6046512,0 L76,0 Z" id="path-1"></path>
+        <linearGradient x1="65.9395394%" y1="21.4590806%" x2="33.5616594%" y2="62.1177271%" id="linearGradient-3">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.583998033" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="闪屏" transform="translate(-143.000000, -284.000000)">
+            <g id="logo备份" transform="translate(143.500000, 284.000000)">
+                <rect id="bg" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="88" height="88"></rect>
+                <g id="矩形-+-路径-蒙版" transform="translate(6.000000, 14.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="蒙版" fill="#307EFF" xlink:href="#path-1"></use>
+                    <path d="M30.3361345,0 L76,0 L76,4.6250198 C76,10.4818069 71.252136,15.229671 65.3953488,15.229671 L40.9407856,15.229671 C35.0839985,15.229671 30.3361345,10.4818069 30.3361345,4.6250198 L30.3361345,0 L30.3361345,0 Z" id="矩形" fill="#FFFFFF" opacity="0.6" mask="url(#mask-2)"></path>
+                    <path d="M45.5209933,12.7087675 L45.5707688,50.3813373 C45.5785072,56.2381193 40.8369205,60.9922524 34.9801385,60.9999907 C34.975468,60.9999969 34.9707975,61 34.9661269,61 L30.4167317,61 L30.4167317,61 L30.416605,15.229671 L0,15.229671 L0,10.6046512 C-7.17249559e-16,4.74786405 4.74786405,1.07587434e-15 10.6046512,0 L32.7954231,0 C39.8170023,4.86513664e-16 45.511716,5.68719445 45.5209933,12.7087675 Z" id="路径" fill="url(#linearGradient-3)" mask="url(#mask-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
